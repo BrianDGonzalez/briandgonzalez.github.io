@@ -18,6 +18,6 @@ We are grateful for funding from Moffitt Cancer Center, the National Cancer Inst
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/Moffitt logo.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/NCI logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/CDMRP logo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/NCI logo.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/CDMRP logo.png" style="width: 210px">
 </figure>
