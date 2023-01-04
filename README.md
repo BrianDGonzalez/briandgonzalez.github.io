@@ -14,11 +14,11 @@ We are the ***Q***uality ***o***f ***l***ife in ***O***ncology ***L***ab (QOOL),
  </figure>
  
 <figure class="fourth">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/stock_images/Digital.png" style="width: 210px">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/stock_images/Digital.jpg" style="width: 210px">
  </figure>
 
 We are located at [Moffitt Cancer Center](http://www.moffitt.org) in Tampa, FL.
 
 <figure class="fourth">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/Moffitt logo.png" style="width: 210px">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/Moffitt_logo.png" style="width: 210px">
  </figure>
