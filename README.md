@@ -7,13 +7,21 @@ permalink: /
 
 # Welcome to the QOOL Lab
 
-We are the **Q**uality **o**f **l**ife in **O**ncology **L**ab (QOOL), a diverse team of researchers, trainees, and staff who are passionate about improving quality of life and biopsychosocial outcomes for individuals diagnosed with cancer and their families.
+We are the ***Q***uality ***o***f ***l***ife in ***O***ncology ***L***ab (QOOL), a diverse team of researchers, trainees, and staff who are passionate about improving quality of life and biopsychosocial outcomes for individuals diagnosed with cancer and their families.
 
 ![Couple](/images/stock_images/Couple.jpg)
 ![Couple](/images/stock_images/Digital.jpg)
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/stock_images/Couple.png" alt="Couple" width="200">
+<figure class="fourth">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/Couple.jpg" style="width: 210px">
+ </figure>
+ 
+<figure class="fourth">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/stock_images/Digital.png" style="width: 210px">
+ </figure>
 
 We are located at [Moffitt Cancer Center](http://www.moffitt.org) in Tampa, FL.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/stock_images/Moffitt_logo.png" class="center" style="vertical-align:bottom">
+<figure class="fourth">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/Moffitt logo.png" style="width: 210px">
+ </figure>
