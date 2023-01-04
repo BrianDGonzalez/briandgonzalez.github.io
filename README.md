@@ -16,20 +16,20 @@ We are located at [Moffitt Cancer Center](http://www.moffitt.org) in Tampa, FL.
 
 ### Heather S.L. Jim, PhD
 
-<img align="right" width="100" src="/images/headshots/Heather_Jim.jpg">
+<img align="left" width="100" src="/images/headshots/Heather_Jim.jpg">
 Senior Member  
 Program Leader, Health Outcomes and Behavior Program  
 [Website](https://moffitt.org/research-science/researchers/heather-jim/)
 
 ### Brian D. Gonzalez, PhD
 
-<img align="right" width="100" src="/images/headshots/Brian_Gonzalez.jpg">
+<img align="left" width="100" src="/images/headshots/Brian_Gonzalez.jpg">
 Associate Member, Health Outcomes and Behavior Program  
 Scientific Director, Participant Research, Interventions, & Measurements (PRISM) Core  
 [Website](https://moffitt.org/research-science/researchers/brian-gonzalez/)
 
 ### Laura B. Oswald, PhD
 
-<img align="right" width="100" src="/images/headshots/Laura_Oswald.jpg">
+<img align="left" width="100" src="/images/headshots/Laura_Oswald.jpg">
 Assistant Member, Health Outcomes and Behavior Program  
 [Website](https://moffitt.org/research-science/researchers/laura-oswald/)
