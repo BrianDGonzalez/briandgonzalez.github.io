@@ -10,6 +10,4 @@ We are the ***Q***uality ***o***f ***l***ife in ***O***ncology ***L***ab (QOOL),
 
 We are located at [Moffitt Cancer Center](http://www.moffitt.org) in Tampa, FL.
 
-<figure align="center">
-   <img src="/images/logos/Moffitt_logo.png" style="width: 210px">
- </figure>
+<img src="/images/logos/Moffitt_logo.png" alt="Moffitt_logo" class="center" style="width: 200">
