@@ -5,19 +5,15 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at [Moffitt Cancer Center](http://www.moffitt.org) in the [Department of Health Outcomes and Behavior](https://moffitt.org/research-science/divisions-and-departments/population-science/health-outcomes-and-behavior/). Our research aims to improve quality of life for people affected by cancer.
+# Welcome to the QOOL Lab
 
-We create new models for predicting which cancer patients/survivors will be affected by quality of life issues. We also develop new interventions to help cancer patients/survivors improve their quality of life.
+We are the **Q**uality **o**f **l**ife in **O**ncology **L**ab (QOOL), a diverse team of researchers, trainees, and staff who are passionate about improving quality of life and biopsychosocial outcomes for individuals diagnosed with cancer and their families.
 
-We are located at Moffitt Cancer Center in Tampa, FL.
+![Couple](/images/stock_images/Couple.jpg)
+![Couple](/images/stock_images/Digital.jpg)
 
- **We are  looking for passionate new Postdocs and Research Scientists to join the team**
+<img src="{{ site.url }}{{ site.baseurl }}/images/stock_images/Couple.png" alt="Couple" width="200">
 
+We are located at [Moffitt Cancer Center](http://www.moffitt.org) in Tampa, FL.
 
-We are grateful for funding from Moffitt Cancer Center, the National Cancer Institute, and the US Department of Defense.
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/Moffitt logo.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/NCI logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/CDMRP logo.png" style="width: 120px">
-</figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/stock_images/Moffitt_logo.png" class="center" style="vertical-align:bottom">
