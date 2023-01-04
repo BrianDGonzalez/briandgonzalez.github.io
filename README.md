@@ -9,9 +9,6 @@ permalink: /
 
 We are the ***Q***uality ***o***f ***l***ife in ***O***ncology ***L***ab (QOOL), a diverse team of researchers, trainees, and staff who are passionate about improving quality of life and biopsychosocial outcomes for individuals diagnosed with cancer and their families.
 
-![Couple](/images/stock_images/Couple.jpg)
-![Couple](/images/stock_images/Digital.jpg)
-
 <figure class="fourth">
    <img src="{{ site.url }}{{ site.baseurl }}/images/logos/Couple.jpg" style="width: 210px">
  </figure>
