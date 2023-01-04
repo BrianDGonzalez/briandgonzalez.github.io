@@ -14,8 +14,9 @@ We are located at [Moffitt Cancer Center](http://www.moffitt.org) in Tampa, FL.
 
 # Our Team
 
-## Heather S.L. Jim, PhD
-<img align="right" src="/images/headshots/Heather_Jim.jpg" alt="Heather_Jim" style="width: 200">
+### Heather S.L. Jim, PhD
+
+<img align="right" width="200" src="/images/headshots/Heather_Jim.jpg">
 Senior Member
 Program Leader, Health Outcomes and Behavior Program
 [Website](https://moffitt.org/research-science/researchers/heather-jim/)
