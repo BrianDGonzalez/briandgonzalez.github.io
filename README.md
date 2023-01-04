@@ -14,6 +14,8 @@ We are located at [Moffitt Cancer Center](http://www.moffitt.org) in Tampa, FL.<
 
 # Our Team
 
+## Faculty
+
 ### Heather S.L. Jim, PhD
 
 <img align="left" width="100" src="/images/headshots/Heather_Jim.jpg">
